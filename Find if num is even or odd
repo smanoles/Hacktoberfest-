@@ -1,8 +1,16 @@
 num = int(input( "Enter a number:"))
+num2 = int(input(" Enter a second number:"))
+
 if (num / 2) == 0
   print("{0} is even". format(num))
   
 else:
   print("{0) is odd". format(num))
+  
+if (num2 / 2) == 0
+  print("{0} os even". format(num))
+  
+  else print("{0} is odd". format(num))
+  
   
   
