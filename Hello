@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  //say hello
+  cout<<"Hello" << end1;
+  
+  system("Pause");
+  return 0;
+ }
