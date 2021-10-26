@@ -1,20 +1,22 @@
 #include<iostream>
 using namespace std;
 
-int add(int x, int y)
+int add(int x, int y, int z)
 {
-  return x + y;
+  return x + y + z;
 }
 int main()
 {
-  int num1, num2, sum;
+  int num1, num2, num3, sum;
   
   cout << "What is your first number : ";
   cin >> num1;
   cout << "What is your second number : "; 
   cin >> num2;
+  cout << "What is your third number : ";
+  cin >> num3;
   
-  sum = add (num1, num2);
+  sum = add (num1, num2, num3);
   
   cout << "Your sum is : " << sum; 
   }
