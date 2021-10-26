@@ -1,0 +1,9 @@
+person = input ("Enter a Person: ")
+adjective = input ("Enter an Adjective: ")
+noun = input ("Enter a Noun: ")
+animal = input ("Enter an Animal: ")
+number = input ("Enter a Number: ")
+
+Print("Today I went on a walk with", person, "and we had a", adjective, "time.")
+Print(Person, "brought a", noun, "with them. On our way back home we saw a", animal, "and it was much bigger than I imagined.")
+Print("There were", number, "of those", animal, "just hanging around the road. Such a strange thing to see.")
