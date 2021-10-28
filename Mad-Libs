@@ -1,0 +1,13 @@
+person= input ("Enter a person :")
+adjective = input ("Enter an adjective :")
+noun = input ("Enter a noun :")
+sound = input ("Enter a sound :")
+number = input ("Enter a number :")
+name = input ("Enter a name :")
+
+
+Print("I had never been so eager to meet someone as I was to meet", person, "that day."
+Print("I was on my way to the", adjective, "restaurant, " and I had carried with me a big, heavy", noun.
+Print("The", noun, "made a loud", sound," as I trudged it along with me."
+Print("It was a", number, "mile walk in the pouring rain to get to the restaurant."
+Print("I should have simply called", name, "to pick me up from home instead of walking."
